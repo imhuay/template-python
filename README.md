@@ -1,2 +1,2 @@
 # template-python
-Template of Python
+Template of Python project
